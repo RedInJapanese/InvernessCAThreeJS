@@ -1,5 +1,5 @@
 # InvernessCAThreeJS
-![Imgur](https://imgur.com/xlilLXi)
+![Imgur](https://imgur.com/xlilLXi.png)
 
 This project uses threejs and the google maps api to take coordinates from a csv file and plot them.
 
