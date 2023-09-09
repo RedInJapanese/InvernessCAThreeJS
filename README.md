@@ -1,9 +1,5 @@
 # InvernessCAThreeJS
 
-<walkthrough-tutorial-duration duration="10"/>
-
-## Introduction
-
 This project uses threejs and the google maps api to take coordinates from a csv file and plot them.
 
 ## Installation
