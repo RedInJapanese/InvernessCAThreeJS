@@ -24,9 +24,7 @@ not valid for production usage.
 The key can be replaced by following these instructions to
 [get an api key](https://developers.google.com/maps/documentation/javascript/get-api-key).
 
-After changing the key, the Webpack server must be restarted with the following
-command:
-
+After changing the key, restart the server using port 8080 like so:
 ```bash
 npm start -- --port=8080
 ```
